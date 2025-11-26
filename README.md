@@ -59,17 +59,7 @@ Data Analysis       ███████████░░░░
 ---
 
 ## 🌐 **Connect**
-```
-LinkedIn: linkedin.com/in/YOUR_LINKEDIN
-Email: YOUR_EMAIL
-```
+
 
 ---
 
-# 🔥 Bhai bas mujhe 3 cheeze de:
-✔ **Tera GitHub username**  
-✔ **LinkedIn link** (optional)  
-✔ **Email** (optional)  
-
-Aur mai ye poora README **perfect customise** karke de dunga —  
-exact same look as the screenshot, even **better**, aur poora tera naam + style ke hisaab se. 🚀🔥
