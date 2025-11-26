@@ -32,7 +32,7 @@ Learning Mode:    █████████████████   100%
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" alt="Cool AI Animation" width="400"/>
+  <img src="https://raw.githubusercontent.com/shub229177/assets/main/neon.svg" alt="Neon Name"/>
 </p>
 
 
