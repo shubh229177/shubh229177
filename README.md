@@ -2,6 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SHUBHAM+THAKUR;AI+%7C+ML+Engineer;Python+Developer;Always+Building+Cool+Stuff+🚀" />
 </p>
 
+<p align="center">
+  <svg width="600" height="100">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif" font-size="60"
+          fill="#00FF00" filter="url(#glow)">
+      Shubham Thakur
+    </text>
+  </svg>
+</p>
+
 ```
 ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
 ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
