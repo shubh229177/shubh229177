@@ -2,25 +2,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SHUBHAM+THAKUR;AI+%7C+ML+Engineer;Python+Developer;Always+Building+Cool+Stuff+🚀" />
 </p>
 
-<p align="center">
-  <svg width="600" height="100">
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="4" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Arial, Helvetica, sans-serif" font-size="60"
-          fill="#00FF00" filter="url(#glow)">
-      Shubham Thakur
-    </text>
-  </svg>
-</p>
+<style>
+  .glow {
+    font-size: 48px;
+    font-weight: bold;
+    color: #00ff00; /* bright green */
+    text-align: center;
+    margin-top: 50px;
+    text-shadow:
+      0 0 5px #00ff00,
+      0 0 10px #00ff00,
+      0 0 20px #00ff00,
+      0 0 40px #00ff00,
+      0 0 80px #00ff00;
+    animation: glowAnimation 1.5s infinite alternate;
+  }
 
+  @keyframes glowAnimation {
+    from {
+      text-shadow:
+        0 0 5px #00ff00,
+        0 0 10px #00ff00,
+        0 0 20px #00ff00,
+        0 0 40px #00ff00,
+        0 0 80px #00ff00;
+    }
+    to {
+      text-shadow:
+        0 0 10px #00ff00,
+        0 0 20px #00ff00,
+        0 0 30px #00ff00,
+        0 0 50px #00ff00,
+        0 0 100px #00ff00;
+    }
+  }
+</style>
+</head>
+<body>
+  <p class="glow">Shubham Thakur</p>
 ```
 ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
 ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
