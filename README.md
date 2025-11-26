@@ -1,10 +1,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SHUBHAM+THAKUR;AI+%7C+ML+Engineer;Python+Developer;Always+Building+Cool+Stuff+🚀" />
 </p>
----
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&pause=200&color=39FF14&center=true&vCenter=true&width=900&lines=SHUBHAM+THAKUR" alt="Shubham Thakur"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗;██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║;███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║;╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║;███████║██║  ██║╚██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║;╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝;THAKUR" alt="Shubham Thakur"/>
 </p>
+
+
+
 ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
 ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
 ███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║
