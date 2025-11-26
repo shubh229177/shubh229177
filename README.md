@@ -31,12 +31,12 @@ Learning Mode:    █████████████████   100%
 ```
 
 ---
-
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?shubh229177&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?shubh229177&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+I+am+Shubham+Thakur;AI+%7C+ML+Engineer;Python+Developer" />
 </p>
+
+
+
 
 
 ---
