@@ -13,7 +13,7 @@
 
 ---
 
-## 📡 **LIVE TERMINAL DASHBOARD**
+*
 <p align="center">
   <img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif">
 </p>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 **System Stats**
+
 ```
 CPU Usage:        ███████████░░░░░░   67%
 RAM Usage:        ████████░░░░░░░░░   48%
@@ -38,7 +38,7 @@ Learning Mode:    █████████████████   100%
 
 ---
 
-## ⚡ **GitHub Stats**
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
@@ -56,7 +56,7 @@ Learning Mode:    █████████████████   100%
 
 ---
 
-## 📂 **Tech Stack**
+
 ```
 Python     ████████████████░░
 Machine Learning    ████████████░░░
