@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=72&pause=200&color=39FF14&center=true&vCenter=true&width=900&lines=SHUBHAM+THAKUR" alt="Shubham Thakur"/>
 </p>
 ---
-
+---
 ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
 ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
 ███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║
