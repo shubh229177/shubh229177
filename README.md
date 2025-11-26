@@ -1,52 +1,75 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | Tech Explorer 🚀</h3>
-
----
-
-### 🔥 About Me  
-- 🚀 Passionate about **AI, Machine Learning, and Automation**  
-- 👨‍💻 Building projects in **Python, Data Science, and AI tools**  
-- 🌱 Currently learning **Deep Learning & Cloud Basics**  
-- ⚡ Fun fact: I love exploring new tech and helping others 😄  
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode,linux,html,css,js" />
-</p>
-
----
-
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=SHUBHAM+THAKUR;AI+%7C+ML+Engineer;Python+Developer;Always+Building+Cool+Stuff+🚀" />
 </p>
+
+```
+███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
+██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║
+███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║
+╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║
+███████║██║  ██║╚██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
 ---
 
-### 🔥 Contribution Streak  
+## 📡 **LIVE TERMINAL DASHBOARD**
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+
+---
+
+## 🧠 **System Stats**
+```
+CPU Usage:        ███████████░░░░░░   67%
+RAM Usage:        ████████░░░░░░░░░   48%
+Active Projects:  ████████████████░   93%
+Bug Fixing:       ██░░░░░░░░░░░░░░░   12%
+Learning Mode:    █████████████████   100%
+```
+
+---
+
+## ⚡ **GitHub Stats**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
-- 🔹 **AI Tools Automation** – Python + APIs  
-- 🔹 **ML Model End-to-End** – Training → Deployment  
-- 🔹 **Data Visualization Dashboard**  
-- 🔹 More on my repositories ⬇️  
+## 🎛️ **Terminal Clock**
+```
+┌──────────────────────────────┐
+│   CURRENT TIME (IST)         │
+│      03:47:26 PM             │
+└──────────────────────────────┘
+```
 
 ---
 
-### 🌐 Connect With Me  
-<p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+## 📂 **Tech Stack**
+```
+Python     ████████████████░░
+Machine Learning    ████████████░░░
+Deep Learning       ████████░░░░░░
+Git & GitHub        ████████████░░░
+Data Analysis       ███████████░░░░
+```
 
 ---
 
-⭐ **If you like my work, consider giving a star!**  
+## 🌐 **Connect**
+```
+LinkedIn: linkedin.com/in/YOUR_LINKEDIN
+Email: YOUR_EMAIL
+```
+
+---
+
+# 🔥 Bhai bas mujhe 3 cheeze de:
+✔ **Tera GitHub username**  
+✔ **LinkedIn link** (optional)  
+✔ **Email** (optional)  
+
+Aur mai ye poora README **perfect customise** karke de dunga —  
+exact same look as the screenshot, even **better**, aur poora tera naam + style ke hisaab se. 🚀🔥
