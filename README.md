@@ -57,7 +57,7 @@ Data Analysis       ███████████░░░░
 ---
 
 ## 🌐 **Connect**
-
+https://www.linkedin.com/in/shubham-thakur-a127a3370/
 
 ---
 
