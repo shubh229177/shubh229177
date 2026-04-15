@@ -10,7 +10,7 @@ I enjoy working on real-world datasets, especially in domains like **stock marke
 ## 🚀 About Me
 
 * 🔭 Currently working on **Machine Learning & Data Science Projects**
-* 📊 Strong interest in **Stock Market Analysis & Prediction**
+* 📊 Strong interest in **Machine Learning & And Model Creation**
 * 🧠 Exploring advanced ML models and real-world applications
 * 💡 Love turning raw data into meaningful insights
 
